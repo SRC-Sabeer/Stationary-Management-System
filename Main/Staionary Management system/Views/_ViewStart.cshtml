@@ -1,0 +1,12 @@
+﻿@{
+    var controllerName = ViewContext.RouteData.Values["controller"] as string;
+
+    if (controllerName != null && controllerName.Equals("Admin", StringComparison.OrdinalIgnoreCase))
+    {
+        Layout = "~/Views/Shared/Layout1.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+}
