@@ -13,22 +13,22 @@
         <div class="tab-content pt-2" id="login_register_tab_content">
             <div class="tab-pane fade show active" id="tab-item-login" role="tabpanel" aria-labelledby="login-tab">
                 <div class="login-form">
-                    <form name="login-form" class="needs-validation" novalidate>
+                    <form name="login-form" class="needs-validation" novalidate action="/Home/Login" method="post">
                         <div class="form-floating mb-3">
-                            <input name="login_email" type="email" class="form-control form-control_gray" id="customerNameEmailInput1" placeholder="Email address *" required>
+                            <input name="Email" type="email" class="form-control form-control_gray" id="customerNameEmailInput1" placeholder="Email address *" required>
                             <label for="customerNameEmailInput1">Email address *</label>
                         </div>
 
                         <div class="pb-3"></div>
 
                         <div class="form-floating mb-3">
-                            <input name="login_password" type="password" class="form-control form-control_gray" id="customerPasswodInput" placeholder="Password *" required>
+                            <input name="Password" type="password" class="form-control form-control_gray" id="customerPasswodInput" placeholder="Password *" required>
                             <label for="customerPasswodInput">Password *</label>
                         </div>
 
                         <div class="d-flex align-items-center mb-3 pb-2">
                             <div class="form-check mb-0">
-                                <input name="remember" class="form-check-input form-check-input_fill" type="checkbox" value="" id="flexCheckDefault1">
+                                <input name="RememberMe" class="form-check-input form-check-input_fill" type="checkbox" value="true" id="flexCheckDefault1">
                                 <label class="form-check-label text-secondary" for="flexCheckDefault1">Remember me</label>
                             </div>
                             <a href="./reset_password.html" class="btn-text ms-auto">Lost password?</a>
@@ -45,23 +45,30 @@
             </div>
             <div class="tab-pane fade" id="tab-item-register" role="tabpanel" aria-labelledby="register-tab">
                 <div class="register-form">
-                    <form name="register-form" class="needs-validation" novalidate>
+                    <form name="register-form" class="needs-validation" novalidate action="/Home/Register" method="post">
                         <div class="form-floating mb-3">
-                            <input name="register_username" type="text" class="form-control form-control_gray" id="customerNameRegisterInput" placeholder="Username" required>
-                            <label for="customerNameRegisterInput">Username</label>
+                            <input name="FirstName" type="text" class="form-control form-control_gray" id="customerNameRegisterInput" placeholder="First Name" required>
+                            <label for="customerNameRegisterInput">First Name</label>
                         </div>
 
                         <div class="pb-3"></div>
 
                         <div class="form-floating mb-3">
-                            <input name="register_email" type="email" class="form-control form-control_gray" id="customerEmailRegisterInput" placeholder="Email address *" required>
+                            <input name="LastName" type="text" class="form-control form-control_gray" id="customerLastNameRegisterInput" placeholder="Last Name" required>
+                            <label for="customerLastNameRegisterInput">Last Name</label>
+                        </div>
+
+                        <div class="pb-3"></div>
+
+                        <div class="form-floating mb-3">
+                            <input name="Email" type="email" class="form-control form-control_gray" id="customerEmailRegisterInput" placeholder="Email address *" required>
                             <label for="customerEmailRegisterInput">Email address *</label>
                         </div>
 
                         <div class="pb-3"></div>
 
                         <div class="form-floating mb-3">
-                            <input name="register_password" type="password" class="form-control form-control_gray" id="customerPasswodRegisterInput" placeholder="Password *" required>
+                            <input name="Password" type="password" class="form-control form-control_gray" id="customerPasswodRegisterInput" placeholder="Password *" required>
                             <label for="customerPasswodRegisterInput">Password *</label>
                         </div>
 
