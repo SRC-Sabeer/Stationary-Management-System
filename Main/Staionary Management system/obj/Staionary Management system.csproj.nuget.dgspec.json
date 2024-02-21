@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Works\\E-Project(Stationary Managment)\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\Staionary Management system.csproj": {}
+    "C:\\Users\\asp\\Documents\\.NET\\src2\\E-Project\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\Staionary Management system.csproj": {}
   },
   "projects": {
-    "D:\\Works\\E-Project(Stationary Managment)\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\Staionary Management system.csproj": {
+    "C:\\Users\\asp\\Documents\\.NET\\src2\\E-Project\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\Staionary Management system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Works\\E-Project(Stationary Managment)\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\Staionary Management system.csproj",
+        "projectUniqueName": "C:\\Users\\asp\\Documents\\.NET\\src2\\E-Project\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\Staionary Management system.csproj",
         "projectName": "Staionary Management system",
-        "projectPath": "D:\\Works\\E-Project(Stationary Managment)\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\Staionary Management system.csproj",
-        "packagesPath": "C:\\Users\\notyo\\.nuget\\packages\\",
-        "outputPath": "D:\\Works\\E-Project(Stationary Managment)\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\obj\\",
+        "projectPath": "C:\\Users\\asp\\Documents\\.NET\\src2\\E-Project\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\Staionary Management system.csproj",
+        "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asp\\Documents\\.NET\\src2\\E-Project\\E-Project(.Net)\\Staionary Management system\\Staionary Management system\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\notyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,38 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -77,15 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
