@@ -9,647 +9,129 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Staionary_Management_system
 build_property.RootNamespace = Staionary_Management_system
-build_property.ProjectDir = D:\Works\E-Project(Stationary Managment)\E-Project(.Net)\Staionary Management system\Staionary Management system\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 8.0
+build_property.ProjectDir = c:\Users\asp\Downloads\Staionary Management system\Staionary Management system\
+build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Works\E-Project(Stationary Managment)\E-Project(.Net)\Staionary Management system\Staionary Management system
+build_property.MSBuildProjectDirectory = c:\Users\asp\Downloads\Staionary Management system\Staionary Management system
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Apps_FileManager.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXBwc19GaWxlTWFuYWdlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Auth_2Step_Verification.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aF8yU3RlcF9WZXJpZmljYXRpb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Auth_Confirm_Mail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aF9Db25maXJtX01haWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Auth_Email_Verification.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aF9FbWFpbF9WZXJpZmljYXRpb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Auth_LockScreen.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aF9Mb2NrU2NyZWVuLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Auth_Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aF9Mb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Auth_Recover.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aF9SZWNvdmVyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Auth_Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aF9SZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Blog_Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQmxvZ19EZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Blog_Grid.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQmxvZ19HcmlkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Blog_List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQmxvZ19MaXN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Calender.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2FsZW5kZXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Calender_Full.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2FsZW5kZXJfRnVsbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Candiate_List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2FuZGlhdGVfTGlzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Candidate_OverView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2FuZGlkYXRlX092ZXJWaWV3LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Charts_Apex.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhcnRzX0FwZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Charts_Echarts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhcnRzX0VjaGFydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Charts_Flot.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhcnRzX0Zsb3QuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Charts_Knob.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhcnRzX0tub2IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Charts_SparkLine.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhcnRzX1NwYXJrTGluZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Charts_Tui.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhcnRzX1R1aS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Chart_ChartJs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhcnRfQ2hhcnRKcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Chat.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Contacts_Grid.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdHNfR3JpZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Contacts_List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdHNfTGlzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Contacts_Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdHNfUHJvZmlsZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Crypto_Buy_Sell.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3J5cHRvX0J1eV9TZWxsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Crypto_Exchange.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3J5cHRvX0V4Y2hhbmdlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Crypto_Ico_landing.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3J5cHRvX0ljb19sYW5kaW5nLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Crypto_Lending.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3J5cHRvX0xlbmRpbmcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Crypto_Orders.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3J5cHRvX09yZGVycy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Crypto_Wallet.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3J5cHRvX1dhbGxldC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Dashboard_Blog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkX0Jsb2cuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Dashboard_Crypto.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkX0NyeXB0by5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Dashboard_Job.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkX0pvYi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Dashboard_Saas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkX1NhYXMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ecommerce_Add_Product.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWNvbW1lcmNlX0FkZF9Qcm9kdWN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ecommerce_Cart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWNvbW1lcmNlX0NhcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ecommerce_Checkout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWNvbW1lcmNlX0NoZWNrb3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ecommerce_Customers.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWNvbW1lcmNlX0N1c3RvbWVycy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ecommerce_Orders.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWNvbW1lcmNlX09yZGVycy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ecommerce_Products.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWNvbW1lcmNlX1Byb2R1Y3RzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ecommerce_Product_Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWNvbW1lcmNlX1Byb2R1Y3RfRGV0YWlsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ecommerce_Shops.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWNvbW1lcmNlX1Nob3BzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Email_Inbox.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW1haWxfSW5ib3guY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Email_Read.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW1haWxfUmVhZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Email_Template_Alert.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW1haWxfVGVtcGxhdGVfQWxlcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Email_Template_Basic.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW1haWxfVGVtcGxhdGVfQmFzaWMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Email_Template_Billing.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW1haWxfVGVtcGxhdGVfQmlsbGluZy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_Advanced.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9BZHZhbmNlZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_Editors.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9FZGl0b3JzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_Elements.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9FbGVtZW50cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_layouts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9sYXlvdXRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_Mask.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9NYXNrLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_Repeaters.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9SZXBlYXRlcnMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_Uploads.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9VcGxvYWRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_Validation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9WYWxpZGF0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_Wizards.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9XaXphcmRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Form_XEditable.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRm9ybV9YRWRpdGFibGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Icons_Boxicons.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSWNvbnNfQm94aWNvbnMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Icons_Dripicons.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSWNvbnNfRHJpcGljb25zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Icons_FontAwesome.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSWNvbnNfRm9udEF3ZXNvbWUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Icons_Material_Design.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSWNvbnNfTWF0ZXJpYWxfRGVzaWduLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Invoices_Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW52b2ljZXNfRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Invoices_List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW52b2ljZXNfTGlzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Job_Apply.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSm9iX0FwcGx5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Job_Categories.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSm9iX0NhdGVnb3JpZXMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Job_Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSm9iX0RldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Job_Grid.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSm9iX0dyaWQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Job_List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSm9iX0xpc3QuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Boxed.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19Cb3hlZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Coloured_Sidebar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19Db2xvdXJlZF9TaWRlYmFyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Compact_Sidebar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19Db21wYWN0X1NpZGViYXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Horizontal.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19Ib3Jpem9udGFsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Hori_Boxed_Width.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19Ib3JpX0JveGVkX1dpZHRoLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Hori_Coloured_Header.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19Ib3JpX0NvbG91cmVkX0hlYWRlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Hori_Preloader.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19Ib3JpX1ByZWxvYWRlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Hori_Topbar_Light.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19Ib3JpX1RvcGJhcl9MaWdodC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Icon_Sidebar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19JY29uX1NpZGViYXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Light_Sidebar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19MaWdodF9TaWRlYmFyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Preloader.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19QcmVsb2FkZXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Layouts_Scrollable.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGF5b3V0c19TY3JvbGxhYmxlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Maps_Google.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFwc19Hb29nbGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Maps_Leaflet.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFwc19MZWFmbGV0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Maps_Vector.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFwc19WZWN0b3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Pages404.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnZXM0MDQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Pages500.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnZXM1MDAuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Pages_ComingSoon.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnZXNfQ29taW5nU29vbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Pages_Fax.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnZXNfRmF4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Pages_Maintainance.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnZXNfTWFpbnRhaW5hbmNlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Pages_Princing.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnZXNfUHJpbmNpbmcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Pages_Starter.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnZXNfU3RhcnRlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Pages_Timeline.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFnZXNfVGltZWxpbmUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Projects_Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvamVjdHNfQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Projects_Grid.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvamVjdHNfR3JpZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Projects_List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvamVjdHNfTGlzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Projects_Overview.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvamVjdHNfT3ZlcnZpZXcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Tables_Basic.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGFibGVzX0Jhc2ljLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Tables_Datatable.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGFibGVzX0RhdGF0YWJsZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Tables_Editable.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGFibGVzX0VkaXRhYmxlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Tables_Responsive.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGFibGVzX1Jlc3BvbnNpdmUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Tasks_Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGFza3NfQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Tasks_Kanban.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGFza3NfS2FuYmFuLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Tasks_List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGFza3NfTGlzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Alerts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfQWxlcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Button.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfQnV0dG9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Card.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfQ2FyZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Carousel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfQ2Fyb3VzZWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Colour.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfQ29sb3VyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Dropdown.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfRHJvcGRvd24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_General.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfR2VuZXJhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Grid.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfR3JpZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_images.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfaW1hZ2VzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Lightbox.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfTGlnaHRib3guY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Models.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfTW9kZWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Notification.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfTm90aWZpY2F0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_OffCanvas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfT2ZmQ2FudmFzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_PlaceHolder.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfUGxhY2VIb2xkZXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_ProgressBars.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfUHJvZ3Jlc3NCYXJzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_RangeSlider.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfUmFuZ2VTbGlkZXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Rating.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfUmF0aW5nLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Session_Timeout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfU2Vzc2lvbl9UaW1lb3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_SweetAlerts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfU3dlZXRBbGVydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Tabs_Accordians.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfVGFic19BY2NvcmRpYW5zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Toasts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfVG9hc3RzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Typography.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfVHlwb2dyYXBoeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Utilities.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfVXRpbGl0aWVzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Admin/Ui_Videos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVWlfVmlkZW9zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/About.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Acc_Address.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Acc_Address.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2NfQWRkcmVzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Acc_Dashboard.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Acc_Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2NfRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Acc_Edit.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Acc_Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2NfRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Acc_Order.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Acc_Order.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2NfT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Acc_Wishlist.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Acc_Wishlist.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2NfV2lzaGxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Blog.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Coming_soon.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Coming_soon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21pbmdfc29vbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Contact.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Error404.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Error404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Faq.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Faq.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Index.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Login_Register.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Login_Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbl9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/LookBook.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/LookBook.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb29rQm9vay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Privacy.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Product.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Reset_Password.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Reset_Password.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNldF9QYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Shop.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Shop_Cart.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Shop_Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wX0NhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Shop_Checkout.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Shop_Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wX0NoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Shop_Order_Complete.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Shop_Order_Complete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wX09yZGVyX0NvbXBsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Shop_Order_Tracking.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Shop_Order_Tracking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wX09yZGVyX1RyYWNraW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Store_Location.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Store_Location.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdG9yZV9Mb2NhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Home/Terms.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Home/Terms.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXJtcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Shared/Error.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Shared/Layout1.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Shared/Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Shared/_Layout.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/_ViewImports.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works/E-Project(Stationary Managment)/E-Project(.Net)/Staionary Management system/Staionary Management system/Views/_ViewStart.cshtml]
+[c:/Users/asp/Downloads/Staionary Management system/Staionary Management system/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
