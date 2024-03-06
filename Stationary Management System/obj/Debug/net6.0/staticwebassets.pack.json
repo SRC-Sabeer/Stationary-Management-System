@@ -1,0 +1,3165 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Stationary Management System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Stationary Management System.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\plugins\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\HMT\\css\\plugins\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\plugins\\Flaticon.eot@",
+      "PackagePath": "staticwebassets\\HMT\\css\\plugins\\Flaticon.eot@"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\plugins\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\HMT\\css\\plugins\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\plugins\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\HMT\\css\\plugins\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\plugins\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\HMT\\css\\plugins\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\plugins\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\HMT\\css\\plugins\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\plugins\\flaticon.css",
+      "PackagePath": "staticwebassets\\HMT\\css\\plugins\\flaticon.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\plugins\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\HMT\\css\\plugins\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\plugins\\swiper.min.css",
+      "PackagePath": "staticwebassets\\HMT\\css\\plugins\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\css\\style.css",
+      "PackagePath": "staticwebassets\\HMT\\css\\style.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\fonts\\SofiaProBold.woff",
+      "PackagePath": "staticwebassets\\HMT\\fonts\\SofiaProBold.woff"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\banner_2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-13.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-13.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-14.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-14.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-15.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-15.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-16.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-16.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\blog_title_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\blog_title_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\brands\\brand1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\brands\\brand1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\brands\\brand2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\brands\\brand2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\brands\\brand3.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\brands\\brand3.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\brands\\brand4.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\brands\\brand4.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\brands\\brand5.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\brands\\brand5.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\brands\\brand6.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\brands\\brand6.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\brands\\brand7.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\brands\\brand7.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\cart-item-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\cart-item-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\cart-item-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\cart-item-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\cart-item-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\cart-item-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\collection_grid_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\collection_grid_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\collection_grid_2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\collection_grid_2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\collection_grid_3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\collection_grid_3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\deal_timer_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\deal_timer_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\HMT\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\grid_banner_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\grid_banner_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\grid_banner_2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\grid_banner_2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\grid_banner_3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\grid_banner_3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\grid_banner_4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\grid_banner_4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\grid_banner_5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\grid_banner_5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\grid_banner_6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\grid_banner_6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\lookbook-bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\lookbook-bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\post1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\post1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\post2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\post2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\post3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\post3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\product-4-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\product-4-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\product-6-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\product-6-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\product-7-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\product-7-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\product-8-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\product-8-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\product-9-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\product-9-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\slider_bg.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\slider_bg.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo10\\slideshow-character1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo10\\slideshow-character1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\category_1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\category_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\category_2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\category_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\category_3.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\category_3.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\category_4.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\category_4.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\category_5.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\category_5.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\category_6.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\category_6.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\category_7.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\category_7.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\category_8.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\category_8.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-13.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-14.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-16.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-17.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-18.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-18.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-19.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-19.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-20.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-20.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-21.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-21.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\product-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo11\\slideshow-character1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo11\\slideshow-character1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\category-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\category-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\category-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\category-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\category-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\deal-bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\deal-bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\post-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\post-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\post-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\post-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\post-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-13.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-14.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-15.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-16.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-17.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-18.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-18.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-19.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-19.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\product-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\slideshow-character1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\slideshow-character1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo12\\slideshow-pattern.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo12\\slideshow-pattern.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\category-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\category-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\category-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\category-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\category-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\category-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\category-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\newsletter_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\newsletter_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo13\\slider1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo13\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\grid_banner_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\grid_banner_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\grid_banner_2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\grid_banner_2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\grid_banner_3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\grid_banner_3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\grid_banner_4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\grid_banner_4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\grid_banner_5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\grid_banner_5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\m1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\m1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\m2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\m2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\m3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\m3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\m4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\m4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\m5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\m5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\m6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\m6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-13.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-15.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-16.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-17.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-18.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-18.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\product-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\slider1_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\slider1_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\slider1_character.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\slider1_character.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo14\\slider2_character.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo14\\slider2_character.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\category-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\category-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\category-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\category-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\insta-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\insta-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\insta-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\insta-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\insta-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\insta-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\insta-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\insta-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\insta-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\insta-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\slider1_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\slider1_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo15\\slider2_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo15\\slider2_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\banner-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\banner-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\product-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\product-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\product-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\slider1_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\slider1_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\slider2_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\slider2_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo16\\video_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo16\\video_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\banner-3.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\banner-3.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\banner-4.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\banner-4.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\banner-5.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\banner-5.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\slider_bg_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\slider_bg_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo17\\slideshow-character1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo17\\slideshow-character1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\banner-7.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\banner-7.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\banner-8.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\banner-8.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\banner-9.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\banner-9.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\category-1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\category-1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\category-2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\category-2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\category-3.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\category-3.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\category-4.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\category-4.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\category-5.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\category-5.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo18\\testimonial-mark.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo18\\testimonial-mark.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\category-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\category-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\category-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\product-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\product-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\product-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo19\\slider_bg_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo19\\slider_bg_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo1\\product-0-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo1\\product-0-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo1\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo1\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo1\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo1\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo1\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo1\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\banner-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\banner-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\category-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\category-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\category-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\category-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\category-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\category-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\category-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\instagram1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\instagram1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\instagram2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\instagram2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\instagram3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\instagram3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\instagram4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\instagram4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\instagram5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\instagram5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo20\\slider1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo20\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\banner-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\banner-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\banner-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\banner-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\category-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\category-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\category-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\category-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\category-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\category-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\category-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\instagram-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\instagram-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-13.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-14.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-15.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-16.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-17.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\product-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo21\\slider1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo21\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\category-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\category-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\category-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\category-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\category-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\product-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo22\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo22\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\banner-2-bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\banner-2-bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\banner-2-item.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\banner-2-item.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\product-1-thumb.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\product-1-thumb.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\product-1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\product-1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\product-2-thumb.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\product-2-thumb.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\product-2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\product-2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\product-3-thumb.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\product-3-thumb.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo23\\product-4-thumb.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo23\\product-4-thumb.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\category1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\category1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\category2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\category2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\category3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\category3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\category4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\category4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\category5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\category5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\grid_banner_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\grid_banner_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\grid_banner_2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\grid_banner_2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\grid_banner_3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\grid_banner_3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\image_banner_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\image_banner_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\post1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\post1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\post2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\post2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\post3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\post3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-0-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-0-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-0-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-0-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-1-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-1-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-2-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-2-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-3-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-3-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-4-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-4-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-4-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-4-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-5-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-5-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-6-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-6-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-6-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-6-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-7-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-7-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\product-7-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\product-7-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\slider1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\slider2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo2\\slider3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo2\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_3.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_3.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_4.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_4.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_5.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_5.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_6.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_6.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_7.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_7.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_8.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_8.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\category_9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\category_9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-0-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-0-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-0-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-0-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-1-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-1-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-2-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-2-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-3-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-3-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\product-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\slider_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\slider_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo3\\slideshow-character1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo3\\slideshow-character1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\grid-banner-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\grid-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\grid-banner-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\grid-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\grid-banner-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\grid-banner-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\grid-banner-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\grid-banner-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\post-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\post-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\post-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\post-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\post-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-1-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-1-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-13.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-2-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-2-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-3-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-3-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-4-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-4-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-4-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-4-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-5-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-5-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-6-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-6-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-6-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-6-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-7-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-7-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-7-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-7-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-8-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-8-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-8-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-8-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\product-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\slider1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\slider1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\slider2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\slider2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\slider3.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\slider3.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\slider_mark.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\slider_mark.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo4\\testimonial_avatar.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo4\\testimonial_avatar.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\category_1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\category_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\category_2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\category_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\category_3.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\category_3.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\category_4.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\category_4.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\category_5.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\category_5.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\category_6.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\category_6.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\category_7.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\category_7.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\category_8.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\category_8.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\deal_bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\deal_bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\lookbook-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\lookbook-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\lookbook-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\lookbook-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\lookbook-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\lookbook-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\lookbook-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\lookbook-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-0-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-0-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-10-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-10-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-11-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-11-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-12-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-12-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-13-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-13-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-4-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-4-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-6-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-6-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-7-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-7-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\product-8-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\product-8-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo5\\slider1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo5\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\banner1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\banner2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\banner3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\banner4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\banner5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\banner6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\banner6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\banner7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\banner7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\banner8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\banner8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\instagram1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\instagram1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\instagram2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\instagram2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\instagram3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\instagram3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\instagram4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\instagram4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\instagram5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\instagram5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo6\\slider1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo6\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\banner.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\banner.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\lookbook-bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\lookbook-bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-1-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-1-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-13.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-14.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-15.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-16.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-2-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-2-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-3-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-3-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-4-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-4-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-4-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-4-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-5-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-5-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-6-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-6-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-6-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-6-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-7-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-7-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-7-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-7-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-8-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-8-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-8-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-8-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\product-banner.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\product-banner.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\slider1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\slider2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\slider3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo7\\slider4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo7\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo8\\slider1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo8\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo8\\slider2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo8\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo8\\slider3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo8\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\collection_grid_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\collection_grid_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\collection_grid_2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\collection_grid_2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\collection_grid_3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\collection_grid_3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\collection_grid_4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\collection_grid_4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\collection_grid_5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\collection_grid_5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\lookbook-bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\lookbook-bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\post1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\post1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\post2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\post2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\post3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\post3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\product-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\product-6-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\product-6-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\product-7-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\product-7-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\product-8-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\product-8-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\home\\demo9\\slider1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\home\\demo9\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta20.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta20.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta21.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta21.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta22.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta22.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta23.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta23.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta24.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta24.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta25.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta25.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta26.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta26.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta27.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta27.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\instagram\\insta9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\instagram\\insta9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-baby.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-baby.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-black-wine.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-black-wine.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-black.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-black.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-blue.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-blue.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-cars.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-cars.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-cosmetics.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-cosmetics.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-dark-blue.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-dark-blue.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-darkblue-yellow.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-darkblue-yellow.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-tools.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-tools.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-watches-footer.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-watches-footer.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-white-cosmetics.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-white-cosmetics.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-white-red.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-white-red.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-white-yellow.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-white-yellow.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo-wine.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo-wine.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\logo.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\lookbook\\lookbook-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\lookbook\\lookbook-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\lookbook\\lookbook-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\lookbook\\lookbook-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\lookbook\\lookbook-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\lookbook\\lookbook-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\lookbook\\lookbook-4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\lookbook\\lookbook-4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\lookbook\\lookbook-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\lookbook\\lookbook-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\lookbook\\lookbook-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\lookbook\\lookbook-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\mega-menu-item.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\mega-menu-item.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\nav-bg.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\nav-bg.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\newsletter-popup.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\newsletter-popup.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\pattern_bg.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\pattern_bg.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\payment-options.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\payment-options.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-17-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-17-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-17-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-17-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-18-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-18-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-19-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-19-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-19-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-19-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-19-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-19-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-20-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-20-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-20-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-20-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-21-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-21-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-21-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-21-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-22-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-22-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-22-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-22-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-22-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-22-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-23-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-23-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-24-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-24-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-25-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-25-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-26-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-26-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-26-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-26-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-27-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-27-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-27-2.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-27-2.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-28-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-28-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-28-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-28-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-29-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-29-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-29-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-29-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-30-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-30-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-31-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-31-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-32-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-32-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-33-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-33-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-35-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-35-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-36-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-36-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-37-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-37-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-38-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-38-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-39-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-39-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-40-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-40-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-41-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-41-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-42-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-42-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-43.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-43.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-44.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-44.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-45.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-45.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product-46.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product-46.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-10.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-10.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-11.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-11.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-12.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-12.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-13.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-13.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-4.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-4.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0-9.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0-9.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_0.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_0.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_1-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_1-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_10-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_10-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_10.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_10.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_11-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_11-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_11.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_11.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_12-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_12-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_12.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_12.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_13-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_13-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_13.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_13.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_14-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_14-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_14.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_14.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_15-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_15-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_15.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_15.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_16-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_16-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_16.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_16.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_2-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_2-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_3-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_3-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_4-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_4-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_5-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_5-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_5.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_6-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_6-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_7-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_7-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_7.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_8-1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_8-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_8.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_9-1.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_9-1.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\product_9.jpeg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\product_9.jpeg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\quickview_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\quickview_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\quickview_2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\quickview_2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\quickview_3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\quickview_3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\quickview_4.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\quickview_4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\swatch_0.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\swatch_0.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\swatch_1.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\swatch_1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\products\\swatch_2.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\products\\swatch_2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\category-item1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\category-item1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\category-item2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\category-item2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\category-item3.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\category-item3.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\category-item4.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\category-item4.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\category-item5.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\category-item5.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\category-item6.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\category-item6.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\category-item7.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\category-item7.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\category-item8.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\category-item8.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\shop_banner3.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\shop_banner3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\shop_banner6.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\shop_banner6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\shop_banner8.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\shop_banner8.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\shop_banner_2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\shop_banner_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\shop\\shop_banner_character1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\shop\\shop_banner_character1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\size-guide.jpg",
+      "PackagePath": "staticwebassets\\HMT\\images\\size-guide.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\slideshow-character1.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\slideshow-character1.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\slideshow-character2.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\slideshow-character2.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\images\\slideshow-pattern.png",
+      "PackagePath": "staticwebassets\\HMT\\images\\slideshow-pattern.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\details-disclosure.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\details-disclosure.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\googlemap-setting.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\googlemap-setting.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\plugins\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\plugins\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\plugins\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\plugins\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\plugins\\countdown.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\plugins\\countdown.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\plugins\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\plugins\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\plugins\\jquery.min.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\plugins\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\plugins\\swiper.min.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\plugins\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\share.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\share.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\js\\theme.js",
+      "PackagePath": "staticwebassets\\HMT\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\videos\\video_1.mp4",
+      "PackagePath": "staticwebassets\\HMT\\videos\\video_1.mp4"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\HMT\\videos\\video_2.mp4",
+      "PackagePath": "staticwebassets\\HMT\\videos\\video_2.mp4"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Stationary Management System\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Stationary Management System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Stationary Management System.props",
+      "PackagePath": "build\\Stationary Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Stationary Management System.props",
+      "PackagePath": "buildMultiTargeting\\Stationary Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Stationary Management System.props",
+      "PackagePath": "buildTransitive\\Stationary Management System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
