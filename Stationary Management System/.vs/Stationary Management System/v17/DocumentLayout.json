@@ -1,0 +1,655 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\ecommerce_shops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\ecommerce_shops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\models\\smscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:models\\smscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\tables_datatables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\tables_datatables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\invoices_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\invoices_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\email_template_billing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\email_template_billing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\email_template_basic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\email_template_basic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\email_template_alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\email_template_alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\email_read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\email_read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\email_inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\email_inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\ecommerce_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\ecommerce_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\ecommerce_product_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\ecommerce_product_detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\ecommerce_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\ecommerce_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\ecommerce_order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\ecommerce_order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\ecommerce_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\ecommerce_checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\ecommerce_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\ecommerce_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\ecommerce_add_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\ecommerce_add_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\contact_profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\contact_profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\contact_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\contact_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\candidate_overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\candidate_overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\candidate_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\candidate_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\auth_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\auth_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\auth_recoverpw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\auth_recoverpw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\auth_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\auth_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\auth_confirm_mail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\auth_confirm_mail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\auth_email_verification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\auth_email_verification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|c:\\users\\notyo\\onedrive\\desktop\\stationary management system\\views\\admin\\auth_lockscreen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFD8EE-F319-41C4-9B07-552039DC7056}|Stationary Management System.csproj|solutionrelative:views\\admin\\auth_lockscreen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T08:54:23.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "list.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\list.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\list.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\list.cshtml",
+              "RelativeToolTip": "Views\\Admin\\list.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T08:53:04.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T09:03:58.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Details.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T08:55:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ecommerce_shops.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_shops.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ecommerce_shops.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_shops.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ecommerce_shops.cshtml",
+              "ViewState": "AQIAAHkBAAAAAAAAAAAowI0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T09:02:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:08:03.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T09:17:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwGkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:11:47.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:08:33.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Models\\SMSContext.cs",
+              "RelativeDocumentMoniker": "Models\\SMSContext.cs",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Models\\SMSContext.cs",
+              "RelativeToolTip": "Models\\SMSContext.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:00:49.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T19:01:24.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:02:02.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:03:26.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tables_datatables.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\tables_datatables.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\tables_datatables.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\tables_datatables.cshtml",
+              "RelativeToolTip": "Views\\Admin\\tables_datatables.cshtml",
+              "ViewState": "AQIAABMDAAAAAAAAAAAowPEDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "invoices_detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\invoices_detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\invoices_detail.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\invoices_detail.cshtml",
+              "RelativeToolTip": "Views\\Admin\\invoices_detail.cshtml",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAowIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "email_template_billing.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_template_billing.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\email_template_billing.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_template_billing.cshtml",
+              "RelativeToolTip": "Views\\Admin\\email_template_billing.cshtml",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAowHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "email_template_basic.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_template_basic.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\email_template_basic.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_template_basic.cshtml",
+              "RelativeToolTip": "Views\\Admin\\email_template_basic.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAowFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "email_template_alert.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_template_alert.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\email_template_alert.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_template_alert.cshtml",
+              "RelativeToolTip": "Views\\Admin\\email_template_alert.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "email_read.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_read.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\email_read.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_read.cshtml",
+              "RelativeToolTip": "Views\\Admin\\email_read.cshtml",
+              "ViewState": "AQIAANQAAAAAAAAAAAAowOYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "email_inbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_inbox.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\email_inbox.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\email_inbox.cshtml",
+              "RelativeToolTip": "Views\\Admin\\email_inbox.cshtml",
+              "ViewState": "AQIAANUBAAAAAAAAAAAowOgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ecommerce_products.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_products.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ecommerce_products.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_products.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ecommerce_products.cshtml",
+              "ViewState": "AQIAACIBAAAAAAAAAAAowDUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ecommerce_product_detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_product_detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ecommerce_product_detail.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_product_detail.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ecommerce_product_detail.cshtml",
+              "ViewState": "AQIAAFEBAAAAAAAAAAAowGUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ecommerce_order.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_order.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ecommerce_order.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_order.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ecommerce_order.cshtml",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAowKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ecommerce_customer.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_customer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ecommerce_customer.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_customer.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ecommerce_customer.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ecommerce_checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ecommerce_checkout.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_checkout.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ecommerce_checkout.cshtml",
+              "ViewState": "AQIAAMgBAAAAAAAAAAAowNwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ecommerce_cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ecommerce_cart.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_cart.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ecommerce_cart.cshtml",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAowBsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ecommerce_add_product.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_add_product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ecommerce_add_product.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\ecommerce_add_product.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ecommerce_add_product.cshtml",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAowK8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "contact_profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\contact_profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\contact_profile.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\contact_profile.cshtml",
+              "RelativeToolTip": "Views\\Admin\\contact_profile.cshtml",
+              "ViewState": "AQIAACQBAAAAAAAAAAAowDkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "contact_list.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\contact_list.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\contact_list.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\contact_list.cshtml",
+              "RelativeToolTip": "Views\\Admin\\contact_list.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "candidate_overview.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\candidate_overview.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\candidate_overview.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\candidate_overview.cshtml",
+              "RelativeToolTip": "Views\\Admin\\candidate_overview.cshtml",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAowGoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "candidate_list.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\candidate_list.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\candidate_list.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\candidate_list.cshtml",
+              "RelativeToolTip": "Views\\Admin\\candidate_list.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "auth_register.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\auth_register.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_register.cshtml",
+              "RelativeToolTip": "Views\\Admin\\auth_register.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAowGUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "auth_recoverpw.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_recoverpw.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\auth_recoverpw.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_recoverpw.cshtml",
+              "RelativeToolTip": "Views\\Admin\\auth_recoverpw.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowDkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "auth_login.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\auth_login.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\auth_login.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "auth_lockscreen.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_lockscreen.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\auth_lockscreen.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_lockscreen.cshtml",
+              "RelativeToolTip": "Views\\Admin\\auth_lockscreen.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowDoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "auth_email_verification.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_email_verification.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\auth_email_verification.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_email_verification.cshtml",
+              "RelativeToolTip": "Views\\Admin\\auth_email_verification.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "auth_confirm_mail.cshtml",
+              "DocumentMoniker": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_confirm_mail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\auth_confirm_mail.cshtml",
+              "ToolTip": "C:\\Users\\notyo\\OneDrive\\Desktop\\Stationary Management System\\Views\\Admin\\auth_confirm_mail.cshtml",
+              "RelativeToolTip": "Views\\Admin\\auth_confirm_mail.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:47.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

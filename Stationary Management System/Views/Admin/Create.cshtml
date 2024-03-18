@@ -1,0 +1,99 @@
+﻿@model Stationary_Management_System.ViewModels.ProductViewModel
+
+@{
+    ViewData["Title"] = "Create";
+        
+}
+
+<h1>Create</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="main-content">
+
+    <div class="page-content">
+        <div class="container-fluid">
+<div class="row ">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price1" class="control-label"></label>
+                <input asp-for="Price1" class="form-control" />
+                <span asp-validation-for="Price1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price2" class="control-label"></label>
+                <input asp-for="Price2" class="form-control" />
+                <span asp-validation-for="Price2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price3" class="control-label"></label>
+                <input asp-for="Price3" class="form-control" />
+                <span asp-validation-for="Price3" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Warranty" class="control-label"></label>
+                <input asp-for="Warranty" class="form-control" />
+                <span asp-validation-for="Warranty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Application" class="control-label"></label>
+                <input asp-for="Application" class="form-control" />
+                <span asp-validation-for="Application" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PlaceOfOrigin" class="control-label"></label>
+                <input asp-for="PlaceOfOrigin" class="form-control" />
+                <span asp-validation-for="PlaceOfOrigin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Brand" class="control-label"></label>
+                <input asp-for="Brand" class="form-control" />
+                <span asp-validation-for="Brand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Size" class="control-label"></label>
+                <input asp-for="Size" class="form-control" />
+                <span asp-validation-for="Size" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Function" class="control-label"></label>
+                <input asp-for="Function" class="form-control" />
+                <span asp-validation-for="Function" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PackageWeight" class="control-label"></label>
+                <input asp-for="PackageWeight" class="form-control" />
+                <span asp-validation-for="PackageWeight" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input type="file" asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+        
