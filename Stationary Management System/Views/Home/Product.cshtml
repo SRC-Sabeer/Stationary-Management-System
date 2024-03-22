@@ -1,0 +1,93 @@
+﻿@model Product
+
+<main>
+    <div class="mb-md-1 pb-md-3"></div>
+    <section class="product-single container">
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="product-single__media" data-media-type="vertical-thumbnail">
+                    <div class="product-single__image">
+                        <div class="swiper-container">
+                            <div class="swiper-wrapper">
+                                @foreach (var image in Model.Image)
+                                {
+                                    <div class="swiper-slide product-single__image-item">
+                                        <img loading="lazy" class="h-auto" src="~/images/@Model.Image" width="674" height="674" alt="">
+                                       
+                                    </div>
+                                }
+                               
+                            </div>
+                         
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="d-flex justify-content-between mb-4 pb-md-2">
+                    <div class="breadcrumb mb-0 d-none d-md-block flex-grow-1">
+                        <a href="#" class="menu-link menu-link_us-s text-uppercase fw-medium">Home</a>
+                        <span class="breadcrumb-separator menu-link fw-medium ps-1 pe-1">/</span>
+                        <a href="#" class="menu-link menu-link_us-s text-uppercase fw-medium">Stationary</a>
+                    </div><!-- /.breadcrumb -->
+
+                    
+                </div>
+                <h1 class="product-single__name">@Model.Name</h1>
+            
+                <div class="product-single__price">
+                    <span class="current-price">$@Model.Price</span>
+                    
+                </div>
+                <div class="product-single__short-desc">
+                    <p>@Model.Description</p>
+                </div>
+                <form name="addtocart-form" method="post">
+                    <div class="product-single__addtocart">
+                        <div class="qty-control position-relative">
+                            <input type="number" name="quantity" value="1" min="1" class="qty-control__number text-center">
+                            <div class="qty-control__reduce">-</div>
+                            <div class="qty-control__increase">+</div>
+                        </div><!-- .qty-control -->
+                        <a href="@Url.Action("shop_checkout", "Home", new { id = Model.Id })" class="btn btn-primary btn-addtocart">Request</a>
+                    </div>
+                </form>
+              
+                <div class="product-single__meta-info">
+                    <div class="meta-item">
+                        <label>Brand:</label>
+                        <span>@Model.Brand</span>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+        <div class="product-single__details-tab">
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <a class="nav-link nav-link_underscore active" id="tab-description-tab" data-bs-toggle="tab" href="#tab-description" role="tab" aria-controls="tab-description" aria-selected="true">Additional Info</a>
+                </li>
+             
+            </ul>
+            <div class="tab-content">
+                
+                <div class="tab-pane fade show active" id="tab-description" role="tabpanel" aria-labelledby="tab-description-tab">
+                    <div class="product-single__addtional-info">
+                        <div class="item">
+                            <label class="h6">Weight</label>
+                            <span>@Model.Weight </span>
+                        </div>
+                        
+                       
+                       
+                    </div>
+                </div>
+             
+            </div>
+        </div>
+    </section>
+   
+</main>
+
+<div class="mb-5 pb-xl-5"></div>

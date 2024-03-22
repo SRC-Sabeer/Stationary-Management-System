@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stationary Management System", "Stationary Management System.csproj", "{EEBFD8EE-F319-41C4-9B07-552039DC7056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEBFD8EE-F319-41C4-9B07-552039DC7056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBFD8EE-F319-41C4-9B07-552039DC7056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBFD8EE-F319-41C4-9B07-552039DC7056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBFD8EE-F319-41C4-9B07-552039DC7056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D6A69E-EFF4-4319-8BBF-8857E4F24A46}
+	EndGlobalSection
+EndGlobal
