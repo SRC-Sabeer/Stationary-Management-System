@@ -1066,7 +1066,6 @@ C:\xampp\htdocs\Stationary Management System\bin\Debug\net6.0\runtimes\win\lib\n
 C:\xampp\htdocs\Stationary Management System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\xampp\htdocs\Stationary Management System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\xampp\htdocs\Stationary Management System\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
-<<<<<<< HEAD
 C:\xampp\htdocs\Stationary-Management-System-main\Stationary-Management-System-main\Stationary Management System\obj\Debug\net6.0\Stationary Management System.csproj.AssemblyReference.cache
 C:\xampp\htdocs\Stationary-Management-System-main\Stationary-Management-System-main\Stationary Management System\obj\Debug\net6.0\Stationary Management System.GeneratedMSBuildEditorConfig.editorconfig
 C:\xampp\htdocs\Stationary-Management-System-main\Stationary-Management-System-main\Stationary Management System\obj\Debug\net6.0\Stationary Management System.AssemblyInfoInputs.cache
@@ -1317,5 +1316,3 @@ C:\xampp\htdocs\Stationary-Management-System-main\Stationary-Management-System-m
 C:\xampp\htdocs\Stationary-Management-System-main\Stationary-Management-System-main\Stationary Management System\obj\Debug\net6.0\Stationary Management System.csproj.CopyComplete
 C:\xampp\htdocs\Stationary-Management-System-main\Stationary-Management-System-main\Stationary Management System\obj\Debug\net6.0\Stationary Management System.genruntimeconfig.cache
 C:\xampp\htdocs\Stationary-Management-System-main\Stationary-Management-System-main\Stationary Management System\obj\Debug\net6.0\ref\Stationary Management System.dll
-=======
->>>>>>> d9b6ea03deb0e4bcaeb7a0a1a5c013420405da0e

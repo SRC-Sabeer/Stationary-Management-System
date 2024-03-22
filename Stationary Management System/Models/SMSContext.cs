@@ -33,14 +33,7 @@ namespace Stationary_Management_System.Models
 
                 entity.Property(e => e.Id).HasColumnName("id");
 
-<<<<<<< HEAD
             
-=======
-                entity.Property(e => e.Application)
-                    .HasMaxLength(500)
-                    .IsUnicode(false)
-                    .HasColumnName("application");
->>>>>>> d9b6ea03deb0e4bcaeb7a0a1a5c013420405da0e
 
                 entity.Property(e => e.Brand)
                     .HasMaxLength(50)
@@ -52,14 +45,7 @@ namespace Stationary_Management_System.Models
                     .IsUnicode(false)
                     .HasColumnName("description");
 
-<<<<<<< HEAD
               
-=======
-                entity.Property(e => e.Function)
-                    .HasMaxLength(50)
-                    .IsUnicode(false)
-                    .HasColumnName("function");
->>>>>>> d9b6ea03deb0e4bcaeb7a0a1a5c013420405da0e
 
                 entity.Property(e => e.Image)
                     .HasMaxLength(500)
@@ -71,36 +57,11 @@ namespace Stationary_Management_System.Models
                     .IsUnicode(false)
                     .HasColumnName("name");
 
-<<<<<<< HEAD
              
 
              
 
                
-=======
-                entity.Property(e => e.PackageWeight).HasColumnName("package_weight");
-
-                entity.Property(e => e.PlaceOfOrigin)
-                    .HasMaxLength(50)
-                    .IsUnicode(false)
-                    .HasColumnName("place_of_origin");
-
-                entity.Property(e => e.Price1).HasColumnName("price1");
-
-                entity.Property(e => e.Price2).HasColumnName("price2");
-
-                entity.Property(e => e.Price3).HasColumnName("price3");
-
-                entity.Property(e => e.Size)
-                    .HasMaxLength(50)
-                    .IsUnicode(false)
-                    .HasColumnName("size");
-
-                entity.Property(e => e.Warranty)
-                    .HasMaxLength(50)
-                    .IsUnicode(false)
-                    .HasColumnName("warranty");
->>>>>>> d9b6ea03deb0e4bcaeb7a0a1a5c013420405da0e
             });
 
             OnModelCreatingPartial(modelBuilder);

@@ -69,7 +69,6 @@ namespace Stationary_Management_System.Controllers
                 {
                     Name = viewModel.Name,
                     Description = viewModel.Description,
-<<<<<<< HEAD
                   Price = viewModel.Price,
                   
                  
@@ -78,18 +77,6 @@ namespace Stationary_Management_System.Controllers
                  
                     Weight = viewModel.Weight,
                     Stock = viewModel.Stock,
-=======
-                    Price1 = viewModel.Price1,
-                    Price2 = viewModel.Price2,
-                    Price3 = viewModel.Price3,
-                    Warranty = viewModel.Warranty,
-                    Application = viewModel.Application,
-                    PlaceOfOrigin = viewModel.PlaceOfOrigin,
-                    Brand = viewModel.Brand,
-                    Size = viewModel.Size,
-                    Function = viewModel.Function,
-                    PackageWeight = viewModel.PackageWeight,
->>>>>>> d9b6ea03deb0e4bcaeb7a0a1a5c013420405da0e
                     Image = uniqueFileName
                 };
 
