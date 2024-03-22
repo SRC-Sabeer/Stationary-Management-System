@@ -12,11 +12,11 @@ namespace Stationary_Management_System.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly SMSContext context;
+        private readonly SMSContext _context;
 
         public HomeController(SMSContext context)
         {
-            this.context = context;
+            _context = context;
         }
 
         //private IActionResult RedirectToLogin()
@@ -29,7 +29,7 @@ namespace Stationary_Management_System.Controllers
         //}
 
         //// Redirect to login page if user is not logged in
-    
+
 
         //// Action method for pages that require authentication
         //private IActionResult ProtectedAction()
@@ -114,9 +114,9 @@ namespace Stationary_Management_System.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var products = _context.Products.ToList(); // Retrieve all products from the database
+            return View(products); // Pass the products to the view
         }
-
 
         public IActionResult Error404()
         {
@@ -188,10 +188,16 @@ namespace Stationary_Management_System.Controllers
             return View();
         }
 
-        public IActionResult Product()
+        public async Task<IActionResult> Product(int id)
         {
-            return View();
+            var product = await _context.Products.FirstOrDefaultAsync(p => p.Id == id);
+            if (product == null)
+            {
+                return NotFound(); // Return 404 Not Found if product with the given ID is not found
+            }
+            return View(product);
         }
+
 
         public IActionResult Reset_Password()
         {
