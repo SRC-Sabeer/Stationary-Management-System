@@ -209,10 +209,40 @@ namespace Stationary_Management_System.Controllers
             return View();
         }
 
-        public IActionResult Shop_Checkout()
+        public IActionResult Shop_Checkout(int productId, int quantity, string firstName, string lastName, string email, string country, DateTime date, string notes)
         {
-            return View();
+            var product = _context.Products.FirstOrDefault(p => p.Id == productId);
+            if (product == null)
+            {
+                return NotFound(); // Handle product not found
+            }
+            var totalPrice = product.Price * quantity;
+            ViewBag.ProductName = product.Name;
+            ViewBag.ProductPrice = product.Price;
+            ViewBag.Quantity = quantity;
+            ViewBag.Total = totalPrice;
+            var request = new Request
+            {
+                ProductId = productId,
+                Firstname = firstName,
+                Lastname = lastName,
+                Email = email,
+                Date = date,
+                Country = country,
+                Notes = notes,
+                Quantity = quantity,
+                Total = totalPrice
+            };
+
+            // Add the request to the context and save changes to the database
+            _context.Requests.Add(request);
+            _context.SaveChanges();
+
+            // Redirect the user to a confirmation page or any other appropriate action
+            return RedirectToAction("Shop_Order_Complete");
         }
+
+
 
         public IActionResult Shop_Order_Complete()
         {

@@ -16320,6 +16320,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\71aea6cc-9dd3-4ad6-8343-1cf9ca67bc2f_cloud-removebg-preview (1).png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\b9b6b066-bd45-4a57-9961-f59c415048f5_pexels-karolina-grabowska-4386466.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Stationary Management System</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Stationary Management System</BasePath>
+      <RelativePath>images/b9b6b066-bd45-4a57-9961-f59c415048f5_pexels-karolina-grabowska-4386466.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\b9b6b066-bd45-4a57-9961-f59c415048f5_pexels-karolina-grabowska-4386466.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cf44c1e1-07a6-4917-9b60-8c91bd10a390_2023-bentley-continental-gt-s-coupe-101-1654526518.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Stationary Management System</SourceId>
@@ -16335,6 +16351,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cf44c1e1-07a6-4917-9b60-8c91bd10a390_2023-bentley-continental-gt-s-coupe-101-1654526518.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\f03d5755-9e3b-4c27-80f6-c0a77a23a985_Hamzahaseeb.rar))">
+      <SourceType>Package</SourceType>
+      <SourceId>Stationary Management System</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Stationary Management System</BasePath>
+      <RelativePath>images/f03d5755-9e3b-4c27-80f6-c0a77a23a985_Hamzahaseeb.rar</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\f03d5755-9e3b-4c27-80f6-c0a77a23a985_Hamzahaseeb.rar))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\js\site.js))">
       <SourceType>Package</SourceType>

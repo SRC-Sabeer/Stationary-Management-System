@@ -29,7 +29,7 @@ namespace Stationary_Management_System.Controllers
 
         public async Task<IActionResult> List()
         {
-            var products = await context.Products.ToListAsync();
+            var products = context.Products.ToList();
             return View(products);
         }
 
@@ -37,8 +37,14 @@ namespace Stationary_Management_System.Controllers
         // GET: AdminController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            var product = context.Products.Find(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            return View(product);
         }
+
 
 
         // GET: AdminController/Create
@@ -91,16 +97,83 @@ namespace Stationary_Management_System.Controllers
             return View();
         }
 
+        public ActionResult Edit(int id)
+        {
+            var product = context.Products.Find(id);
+                return View();
+            
+            
+        }
 
-public ActionResult Index()
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(ProductViewModel viewModel)
+        {
+            if (ModelState.IsValid)
+            {
+                var product = context.Products.Find(viewModel.Id);
+                if (product == null)
+                {
+                    return NotFound();
+                }
+                // Update product properties with ViewModel data
+                product.Name = viewModel.Name;
+                product.Description = viewModel.Description;
+                product.Price = viewModel.Price;
+                product.Brand = viewModel.Brand;
+                product.Weight = viewModel.Weight;
+                product.Stock = viewModel.Stock;
+
+                context.SaveChanges();
+                ViewBag.Message = "Record updated";
+            }
+            else
+            {
+                ViewBag.Message = "Record not updated";
+            }
+            return View(viewModel);
+        }
+
+
+
+        public ActionResult Delete(int id)
+        {
+            var product = context.Products.Find(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            return View(product);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            var product = context.Products.Find(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            context.Products.Remove(product);
+            context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+
+
+
+        public ActionResult Index()
         {
             return View();
         }
 
-    
-    
 
-    public IActionResult auth_confirm_mail()
+
+
+
+
+       
+        public IActionResult auth_confirm_mail()
     {
         return View();
     }

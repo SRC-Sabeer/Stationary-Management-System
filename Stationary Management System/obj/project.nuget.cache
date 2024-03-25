@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6qt3zA2MOukPLDbWk2vrugueO1ctrx9vPqLYehBltB3Cu0fDukDu3YeJm3vc0BB6MFQjJQiWcjAMlhRHHdQWw==",
+  "dgSpecHash": "2TCR1mAx+7STS4tcm+wA2vH5JGePeIyr0Cp13lpbwl6oUco1GSA9g/s0lFHhsBDnC5kheDeIisLEkZuJzW/V1A==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\Stationary-Management-System-main\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj",
+  "projectFilePath": "C:\\Users\\asp\\Desktop\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asp\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\asp\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

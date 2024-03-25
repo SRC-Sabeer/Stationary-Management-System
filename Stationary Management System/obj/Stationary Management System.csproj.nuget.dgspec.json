@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Stationary-Management-System-main\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj": {}
+    "C:\\Users\\asp\\Desktop\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Stationary-Management-System-main\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj": {
+    "C:\\Users\\asp\\Desktop\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Stationary-Management-System-main\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj",
+        "projectUniqueName": "C:\\Users\\asp\\Desktop\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj",
         "projectName": "Stationary Management System",
-        "projectPath": "C:\\xampp\\htdocs\\Stationary-Management-System-main\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj",
+        "projectPath": "C:\\Users\\asp\\Desktop\\Stationary-Management-System-main\\Stationary Management System\\Stationary Management System.csproj",
         "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Stationary-Management-System-main\\Stationary-Management-System-main\\Stationary Management System\\obj\\",
+        "outputPath": "C:\\Users\\asp\\Desktop\\Stationary-Management-System-main\\Stationary Management System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

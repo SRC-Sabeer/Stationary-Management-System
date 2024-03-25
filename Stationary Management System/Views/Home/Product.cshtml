@@ -43,17 +43,35 @@
                 <div class="product-single__short-desc">
                     <p>@Model.Description</p>
                 </div>
-                <form name="addtocart-form" method="post">
-                    <div class="product-single__addtocart">
-                        <div class="qty-control position-relative">
-                            <input type="number" name="quantity" value="1" min="1" class="qty-control__number text-center">
-                            <div class="qty-control__reduce">-</div>
-                            <div class="qty-control__increase">+</div>
-                        </div><!-- .qty-control -->
-                        <a href="@Url.Action("shop_checkout", "Home", new { id = Model.Id })" class="btn btn-primary btn-addtocart">Request</a>
+
+
+
+
+
+
+
+                <form id="addtocart-form" action="@Url.Action("Shop_Checkout", "Home")" method="post">
+                    <input type="hidden" name="productId" value="@Model.Id" />
+                    <div class="qty-control position-relative">
+                        <input type="number" name="quantity" value="1" min="1" step="1" class="qty-control__number text-center" id="quantity">
+                        <div class="qty-control__reduce">-</div>
+                        <div class="qty-control__increase">+</div>
                     </div>
+                    <button type="submit" class="btn btn-primary btn-addtocart">Request</button>
                 </form>
-              
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <div class="product-single__meta-info">
                     <div class="meta-item">
                         <label>Brand:</label>
@@ -91,3 +109,22 @@
 </main>
 
 <div class="mb-5 pb-xl-5"></div>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var quantityInput = document.getElementById('quantity');
+        var decreaseButton = document.querySelector('.qty-control__reduce');
+        var increaseButton = document.querySelector('.qty-control__increase');
+
+        decreaseButton.addEventListener('click', function () {
+            if (parseInt(quantityInput.value) > 1) {
+                quantityInput.value--;
+            }
+        });
+
+        increaseButton.addEventListener('click', function () {
+            quantityInput.value++;
+        });
+    });
+</script>
