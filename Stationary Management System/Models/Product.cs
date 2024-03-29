@@ -7,6 +7,8 @@ namespace Stationary_Management_System.Models
     {
         public Product()
         {
+            Approveds = new HashSet<Approved>();
+            Rejecteds = new HashSet<Rejected>();
             Requests = new HashSet<Request>();
         }
 
@@ -19,6 +21,8 @@ namespace Stationary_Management_System.Models
         public int Stock { get; set; }
         public string Image { get; set; } = null!;
 
+        public virtual ICollection<Approved> Approveds { get; set; }
+        public virtual ICollection<Rejected> Rejecteds { get; set; }
         public virtual ICollection<Request> Requests { get; set; }
     }
 }

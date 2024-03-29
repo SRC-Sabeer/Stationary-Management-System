@@ -1,4 +1,20 @@
-﻿@model Product
+﻿
+@model Product
+@{
+    var currentUserID = ViewBag.UserID;
+    var productId = Model.Id;
+    
+    // Retrieve approved and rejected records for the current product and user
+    var approvedRecord = Model.Approveds.FirstOrDefault(a => a.ProductId == productId && a.UserId == currentUserID);
+    var rejectedRecord = Model.Rejecteds.FirstOrDefault(r => r.ProductId == productId && r.UserId == currentUserID);
+
+    // If there are no records, set them to null
+    if (approvedRecord == null && rejectedRecord == null)
+    {
+        approvedRecord = null;
+        rejectedRecord = null;
+    }
+}
 
 <main>
     <div class="mb-md-1 pb-md-3"></div>
@@ -13,7 +29,7 @@
                                 {
                                     <div class="swiper-slide product-single__image-item">
                                         <img loading="lazy" class="h-auto" src="~/images/@Model.Image" width="674" height="674" alt="">
-                                       
+
                                     </div>
                                 }
                                
@@ -76,6 +92,8 @@
                     <div class="meta-item">
                         <label>Brand:</label>
                         <span>@Model.Brand</span>
+                        <label>Weight:</label>
+                        <span>@Model.Weight</span>
                     </div>
                    
                 </div>
@@ -93,10 +111,24 @@
                 <div class="tab-pane fade show active" id="tab-description" role="tabpanel" aria-labelledby="tab-description-tab">
                     <div class="product-single__addtional-info">
                         <div class="item">
-                            <label class="h6">Weight</label>
-                            <span>@Model.Weight </span>
+                            <label class="h6">History</label>
+                            @if (approvedRecord != null)
+                            {
+                                <span>Date: @approvedRecord.RequestedDate.ToShortDateString() - Status: Approved</span>
+                            }
+                            else if (rejectedRecord != null)
+                            {
+                                <span>Date: @rejectedRecord.RequestedDate.ToShortDateString() - Status: Rejected</span>
+                            }
+                            else
+                            {
+                                <span>No request history</span>
+                                @currentUserID
+                                <span>-</span>
+                                @productId
+                            }
                         </div>
-                        
+
                        
                        
                     </div>

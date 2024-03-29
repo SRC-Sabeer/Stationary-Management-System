@@ -19,98 +19,97 @@ namespace Stationary_Management_System.Controllers
             _context = context;
         }
 
-        //private IActionResult RedirectToLogin()
-        //{
-        //    return RedirectToAction("Login", "Home");
-        //}
-        //private bool IsUserLoggedIn()
-        //{
-        //    return HttpContext.Session.GetString("UserId") != null;
-        //}
+        private IActionResult RedirectToLogin()
+        {
+            return RedirectToAction("Login", "Home");
+        }
+
+        private bool IsUserLoggedIn()
+        {
+            return HttpContext.Session.GetString("UserId") != null;
+        }
 
         //// Redirect to login page if user is not logged in
 
-
         //// Action method for pages that require authentication
-        //private IActionResult ProtectedAction()
-        //{
-        //    if (!IsUserLoggedIn())
-        //    {
-        //        return RedirectToLogin();
-        //    }
-        //    return View();
-        //}
+        private IActionResult ProtectedAction()
+        {
+            if (!IsUserLoggedIn())
+            {
+                return RedirectToLogin();
+            }
+            return View();
+        }
 
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
 
-        //[HttpGet]
-        //public IActionResult Login()
-        //{
-        //    return View();
-        //}
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login(LoginViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var user = await _context.Users.SingleOrDefaultAsync(u => u.Email == model.email && u.Password == model.password);
+                if (user != null)
+                {
+                    // User authenticated successfully, you can redirect to a dashboard or any other protected page
+                    HttpContext.Session.SetString("UserId", user.Id.ToString());
+                    return RedirectToAction("Acc_Dashboard", "Home");
+                }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+                    return View(model);
+                }
+            }
+            return View(model);
+        }
 
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public async Task<IActionResult> Login(LoginViewModel model)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        var user = await context.Users.SingleOrDefaultAsync(u => u.Email == model.email && u.Password == model.password);
-        //        if (user != null)
-        //        {
-        //            // User authenticated successfully, you can redirect to a dashboard or any other protected page
-        //            HttpContext.Session.SetString("UserId", user.Id.ToString());
-        //            return RedirectToAction("Acc_Dashboard", "Home");
-        //        }
-        //        else
-        //        {
-        //            ModelState.AddModelError(string.Empty, "Invalid login attempt.");
-        //            return View(model);
-        //        }
-        //    }
-        //    return View(model);
-        //}
+        [HttpGet]
+        public IActionResult Register()
+        {
+            return View();
+        }
 
-        //[HttpGet]
-        //public IActionResult Register()
-        //{
-        //    return View();
-        //}
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Register(RegisterViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                // Check if the email is already registered
+                if (_context.Users.Any(u => u.Email == model.email))
+                {
+                    ModelState.AddModelError("Email", "Email is already registered.");
+                    return View(model);
+                }
 
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public async Task<IActionResult> Register(RegisterViewModel model)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        // Check if the email is already registered
-        //        if (context.Users.Any(u => u.Email == model.email))
-        //        {
-        //            ModelState.AddModelError("Email", "Email is already registered.");
-        //            return View(model);
-        //        }
+                // You can add more validation and customization as needed before saving the user
+                var user = new User
+                {
+                    Firstname = model.firstname,
+                    Lastname = model.lastname,
+                    Email = model.email,
+                    Password = model.password
+                };
+                _context.Users.Add(user);
+                await _context.SaveChangesAsync();
 
-        //        // You can add more validation and customization as needed before saving the user
-        //        var user = new User
-        //        {
-        //            Firstname = model.firstname,
-        //            Lastname = model.lastname,
-        //            Email = model.email,
-        //            Password = model.password
-        //        };
-        //        context.Users.Add(user);
-        //        await context.SaveChangesAsync();
+                // You can redirect to login page or any other appropriate page
+                return RedirectToAction("Login");
+            }
+            return View(model);
+        }
 
-        //        // You can redirect to login page or any other appropriate page
-        //        return RedirectToAction("Login");
-        //    }
-        //    return View(model);
-        //}
-
-        //public IActionResult Logout()
-        //{
-        //    HttpContext.Session.Remove("UserId");
-        //    return RedirectToAction("Index", "Home");
-        //}
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Remove("UserId");
+            return RedirectToAction("Index", "Home");
+        }
 
         public IActionResult Index()
         {
@@ -130,26 +129,46 @@ namespace Stationary_Management_System.Controllers
 
         public IActionResult Acc_Dashboard()
         {
-            return /*ProtectedAction*/View();
+            if (!IsUserLoggedIn())
+            {
+                return RedirectToLogin();
+            }
+            return View();
         }
 
         public IActionResult Acc_Address()
         {
+            if (!IsUserLoggedIn())
+            {
+                return RedirectToLogin();
+            }
             return View();
         }
 
         public IActionResult Acc_Edit()
         {
+            if (!IsUserLoggedIn())
+            {
+                return RedirectToLogin();
+            }
             return View();
         }
 
         public IActionResult Acc_Order()
         {
+            if (!IsUserLoggedIn())
+            {
+                return RedirectToLogin();
+            }
             return View();
         }
 
         public IActionResult Acc_Wishlist()
         {
+            if (!IsUserLoggedIn())
+            {
+                return RedirectToLogin();
+            }
             return View();
         }
 
@@ -173,20 +192,12 @@ namespace Stationary_Management_System.Controllers
             return View();
         }
 
-      
-
-
-  
-
-      
-
-
-
-
         public IActionResult LookBook()
         {
             return View();
         }
+
+
 
         public async Task<IActionResult> Product(int id)
         {
@@ -195,6 +206,10 @@ namespace Stationary_Management_System.Controllers
             {
                 return NotFound(); // Return 404 Not Found if product with the given ID is not found
             }
+
+            // Get UserID from session and set it in ViewBag
+            ViewBag.UserID = HttpContext.Session.GetString("UserId");
+
             return View(product);
         }
 
@@ -209,40 +224,67 @@ namespace Stationary_Management_System.Controllers
             return View();
         }
 
-        public IActionResult Shop_Checkout(int productId, int quantity, string firstName, string lastName, string email, string country, DateTime date, string notes)
+        public IActionResult Shop_Checkout(int productId, int quantity)
         {
             var product = _context.Products.FirstOrDefault(p => p.Id == productId);
             if (product == null)
             {
                 return NotFound(); // Handle product not found
             }
-            var totalPrice = product.Price * quantity;
+
+            // Get user_id from session
+            var userId = HttpContext.Session.GetString("UserId");
+            if (userId == null)
+            {
+                // Redirect to login or handle unauthorized access
+                return RedirectToAction("Login", "Home");
+            }
+
+            // Pass product information and user_id to the view
             ViewBag.ProductName = product.Name;
             ViewBag.ProductPrice = product.Price;
             ViewBag.Quantity = quantity;
-            ViewBag.Total = totalPrice;
+            ViewBag.Total = product.Price * quantity;
+            ViewBag.UserId = userId;
+
+            // Render the checkout page
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Shop_Checkout([FromForm] int productId, [FromForm] int quantity, [FromForm] DateTime date)
+        {
+            var product = _context.Products.FirstOrDefault(p => p.Id == productId);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            var totalPrice = product.Price * quantity;
+
+            // Get user_id from session
+            var userId = HttpContext.Session.GetString("UserId");
+            if (userId == null)
+            {
+                // Redirect to login or handle unauthorized access
+                return RedirectToAction("Login", "Home");
+            }
+
             var request = new Request
             {
                 ProductId = productId,
-                Firstname = firstName,
-                Lastname = lastName,
-                Email = email,
+                UserId = int.Parse(userId), // Parse userId to int if UserId is of integer type
                 Date = date,
-                Country = country,
-                Notes = notes,
                 Quantity = quantity,
                 Total = totalPrice
             };
 
-            // Add the request to the context and save changes to the database
+
             _context.Requests.Add(request);
             _context.SaveChanges();
 
-            // Redirect the user to a confirmation page or any other appropriate action
             return RedirectToAction("Shop_Order_Complete");
         }
-
-
 
         public IActionResult Shop_Order_Complete()
         {
@@ -268,7 +310,6 @@ namespace Stationary_Management_System.Controllers
         {
             return View();
         }
-
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

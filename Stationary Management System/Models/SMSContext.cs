@@ -16,7 +16,9 @@ namespace Stationary_Management_System.Models
         {
         }
 
+        public virtual DbSet<Approved> Approveds { get; set; } = null!;
         public virtual DbSet<Product> Products { get; set; } = null!;
+        public virtual DbSet<Rejected> Rejecteds { get; set; } = null!;
         public virtual DbSet<Request> Requests { get; set; } = null!;
         public virtual DbSet<User> Users { get; set; } = null!;
 
@@ -27,6 +29,33 @@ namespace Stationary_Management_System.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Approved>(entity =>
+            {
+                entity.ToTable("approved");
+
+                entity.Property(e => e.Id).HasColumnName("id");
+
+                entity.Property(e => e.ProductId).HasColumnName("product_id");
+
+                entity.Property(e => e.RequestedDate)
+                    .HasColumnType("date")
+                    .HasColumnName("requested_date");
+
+                entity.Property(e => e.UserId).HasColumnName("user_id");
+
+                entity.HasOne(d => d.Product)
+                    .WithMany(p => p.Approveds)
+                    .HasForeignKey(d => d.ProductId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_approved_product");
+
+                entity.HasOne(d => d.User)
+                    .WithMany(p => p.Approveds)
+                    .HasForeignKey(d => d.UserId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_approved_user");
+            });
+
             modelBuilder.Entity<Product>(entity =>
             {
                 entity.ToTable("product");
@@ -60,40 +89,42 @@ namespace Stationary_Management_System.Models
                 entity.Property(e => e.Weight).HasColumnName("weight");
             });
 
+            modelBuilder.Entity<Rejected>(entity =>
+            {
+                entity.ToTable("rejected");
+
+                entity.Property(e => e.Id).HasColumnName("id");
+
+                entity.Property(e => e.ProductId).HasColumnName("product_id");
+
+                entity.Property(e => e.RequestedDate)
+                    .HasColumnType("date")
+                    .HasColumnName("requested_date");
+
+                entity.Property(e => e.UserId).HasColumnName("user_id");
+
+                entity.HasOne(d => d.Product)
+                    .WithMany(p => p.Rejecteds)
+                    .HasForeignKey(d => d.ProductId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_rejected_product");
+
+                entity.HasOne(d => d.User)
+                    .WithMany(p => p.Rejecteds)
+                    .HasForeignKey(d => d.UserId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_rejected_user");
+            });
+
             modelBuilder.Entity<Request>(entity =>
             {
                 entity.ToTable("request");
 
                 entity.Property(e => e.Id).HasColumnName("id");
 
-                entity.Property(e => e.Country)
-                    .HasMaxLength(500)
-                    .IsUnicode(false)
-                    .HasColumnName("country");
-
                 entity.Property(e => e.Date)
                     .HasColumnType("date")
                     .HasColumnName("date");
-
-                entity.Property(e => e.Email)
-                    .HasMaxLength(500)
-                    .IsUnicode(false)
-                    .HasColumnName("email");
-
-                entity.Property(e => e.Firstname)
-                    .HasMaxLength(500)
-                    .IsUnicode(false)
-                    .HasColumnName("firstname");
-
-                entity.Property(e => e.Lastname)
-                    .HasMaxLength(500)
-                    .IsUnicode(false)
-                    .HasColumnName("lastname");
-
-                entity.Property(e => e.Notes)
-                    .HasMaxLength(500)
-                    .IsUnicode(false)
-                    .HasColumnName("notes");
 
                 entity.Property(e => e.ProductId).HasColumnName("product_id");
 
@@ -101,11 +132,19 @@ namespace Stationary_Management_System.Models
 
                 entity.Property(e => e.Total).HasColumnName("total");
 
+                entity.Property(e => e.UserId).HasColumnName("user_id");
+
                 entity.HasOne(d => d.Product)
                     .WithMany(p => p.Requests)
                     .HasForeignKey(d => d.ProductId)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_request_product");
+
+                entity.HasOne(d => d.User)
+                    .WithMany(p => p.Requests)
+                    .HasForeignKey(d => d.UserId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_request_user");
             });
 
             modelBuilder.Entity<User>(entity =>

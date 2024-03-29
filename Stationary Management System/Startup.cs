@@ -24,23 +24,17 @@ namespace Stationary_Management_System
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            // Add session services
+            // Add session support
             services.AddSession(options =>
             {
-                // Set a short timeout for easy testing
+                // Set session timeout
                 options.IdleTimeout = TimeSpan.FromMinutes(30);
                 options.Cookie.HttpOnly = true;
                 options.Cookie.IsEssential = true;
             });
 
-            // Add other services
-            services.AddControllersWithViews();
-
-            // Add database context
-            services.AddDbContext<SMSContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("dbcs")));
+            // Other service configurations...
         }
-
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
@@ -67,9 +61,16 @@ namespace Stationary_Management_System
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
+                    name: "shop_checkout",
+                    pattern: "Home/Shop_Checkout",
+                    defaults: new { controller = "Home", action = "Shop_Checkout" });
+
+                // Other routes...
+
+                endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
-        }
+                }
     }
 }
